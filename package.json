@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/maria-grig/3.2PLAYWRIGHT#readme",
   "devDependencies": {
-    "@playwright/test": "^1.31.2"
+    "@playwright/test": "^1.31.2",
+    "playwright": "^1.28.1"
   }
 }
