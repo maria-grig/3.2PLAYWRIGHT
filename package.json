@@ -1,0 +1,21 @@
+{
+  "name": "3.2playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maria-grig/3.2PLAYWRIGHT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maria-grig/3.2PLAYWRIGHT/issues"
+  },
+  "homepage": "https://github.com/maria-grig/3.2PLAYWRIGHT#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  }
+}
